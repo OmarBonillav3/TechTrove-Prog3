@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Prueba33",
-    "slug": "Prueba33",
+    "name": "TechTrove",
+    "slug": "TechTrove",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -15,16 +15,23 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "y"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.omarbonilla.TechTrove"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "0fc03b94-cb51-4124-9796-8f75e5be75ad"
+      }
     }
   }
 }
