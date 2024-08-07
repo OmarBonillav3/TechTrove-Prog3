@@ -1,2 +1,2 @@
 # TechTrove
-Este es un proyecto que hice para una entrevista de trabajo Usando React Native
+Este proyecto esta dirigido para el proyecto Final de Programacion 3 del ITLA
